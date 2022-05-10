@@ -1,0 +1,158 @@
+body{
+    background-color: silver;
+   
+}
+
+image{
+    max-width: 100%;
+    display: block;
+}
+.cabecalho{
+    display: flex;
+    background-color: white;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;
+    padding-right: 20px;
+}
+
+.titulo{
+    background-color: #c55b11;
+    padding-bottom: 10px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.homeinforma{
+    background-color: white;
+    margin-left: 80px;
+    margin-right: 80px;
+    font-size: 25px;
+    text-align: justify;
+    padding: 12px;
+}
+
+.frutas{
+    margin-right: 100px;
+    margin-left: 140px;
+    margin-top: 0 auto;
+    justify-content: space-around;
+    background-color: white;
+    padding: 50px;
+}
+
+.verduras{
+    margin-right: 100px;
+    margin-left: 140px;
+    margin-top: 0 auto;
+    justify-content: space-around;
+    background-color: silver;
+    padding: 50px;
+}
+
+.legumes{
+    margin-right: 100px;
+    margin-left: 140px;
+    margin-top: 0 auto;
+    justify-content: space-around;
+    background-color: silver;
+    padding: 50px;
+}
+
+table{
+    background-color: white;
+    margin-right: 80px;
+    margin-left: 80px;
+}
+
+.blocofrutas{
+    padding: 80px;
+    background-color: silver;
+    margin: -50px;
+}
+.homeinforma2{
+    background-color: white;
+    margin-left: 80px;
+    margin-right: 80px;
+    font-size: 25px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: justify;
+    padding: 12px;
+}
+
+.comendhome{
+    display: flex;
+    margin-bottom: 0;
+    justify-content: space-between;   
+}
+
+.logomesa{
+    margin-left: 80px;
+    margin-right: 80px;
+    text-align: center;
+    padding-bottom: 0 auto;
+}
+
+.online{
+    display: block;
+    justify-content: space-between;
+    color: white;
+    padding-top: 30px;
+    margin-left: 80px;
+    margin-right: 80px;
+    text-align: center;
+    background-color: #00af50
+}
+
+.localizacao{
+  display: flex;
+  margin-left: 80px;
+  margin-right: 80px;
+  align-items: center;
+  font-size: 20px;
+  background-color: #c55b11;
+}
+
+.inforalimentos{
+    background-color: white;
+    margin-right: 80px;
+    margin-left: 80px;
+    font-size: 20px;
+    padding: 20px;
+}
+
+.paragmaps{
+    margin-left: 20px;
+    font-size: 18px;
+    color: white;
+    padding-right: 6px;
+}
+
+footer{
+    text-align: center;
+    background-color: white;
+
+}
+
+.tabela{
+    text-align: center;
+    margin-right: 200px;
+    margin-left: 400px;
+    justify-content: space-between;
+
+}
+
+.botaovoltar{
+    display: block;
+    background-color: #c55b11;
+    color: white;
+    float: right;
+    border-bottom-color: green;
+    margin-right: 240px;
+    border-radius: 10px;
+    width: 120px;
+    height: 20px;
+    text-align: center;
+    
+}
